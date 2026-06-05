@@ -20,7 +20,7 @@ async def on_member_join(member):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Você é o membro **#{member.guild.member_count}** da **Tropa Rex**! ⚡
 
-⚡ *Dourado é vida. Tropa Rex no comando!* 👑
+ *Dourado é vida. Tropa Rex no comando!* 👑
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         """
         await canal.send(msg)
